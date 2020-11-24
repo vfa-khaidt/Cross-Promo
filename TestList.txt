@@ -1,4 +1,1 @@
-{
-{"gameName":"Made You Look","storeLink":"https://apps.apple.com/US/app/id1529378633?l=en","imageUrls":["https://raw.githubusercontent.com/vfa-khaidt/Cross-Promo/master/MadeyouLook.png"]},
-{"gameName":"Ketchup","storeLink":"https://apps.apple.com/US/app/id1533609557?l=en","imageUrls":["https://raw.githubusercontent.com/vfa-khaidt/Cross-Promo/master/150x150bb.png"]}
-}
+{"list":[{"gameName":"Made You Look","storeLink":"https://apps.apple.com/US/app/id1529378633?l=en","imageUrls":["https://raw.githubusercontent.com/vfa-khaidt/Cross-Promo/master/MadeyouLook.png"]},{"gameName":"Ketchup","storeLink":"https://apps.apple.com/US/app/id1533609557?l=en","imageUrls":["https://raw.githubusercontent.com/vfa-khaidt/Cross-Promo/master/150x150bb.png"]}]}
